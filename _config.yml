@@ -3,11 +3,11 @@ title: 刘友笑个人站
 SEOTitle: 欢迎访问-刘友笑个人站
 header-img: img/post-bg-desk.jpg
 email: youxiaoliu317@gmail.com
-description: "做一个有趣的程序员"
+description: "做一个开心快了且有趣的程序员"
 keyword: "C/C++ shell"
 url: "https://694215916.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/694215916/liuyouxiao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -99,13 +99,7 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
-    },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "CSDN",
+        href: "https://blog.csdn.net/weixin_34153142"
     }
 ]
